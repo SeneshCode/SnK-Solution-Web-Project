@@ -1,6 +1,8 @@
 <p align="center"><a href="http://snksolution.wuaze.com" target="_blank"><img src="public/snk.png" width="100" alt="SnK Logo"></a></p>
 
-#####[SnK Solution](http://snksolution.wuaze.com)
+<p align="center">
+<a href="http://snksolution.wuaze.com" target="_blank">SnK Solutions 🌍</a>
+</p>
 
 <p align="center">
     build by <a href="https://seneshpawan.epizy.com" target="_blank">Senesh Pawan 💻</a>
