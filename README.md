@@ -1,7 +1,9 @@
-<p align="center"><a href="http://snksolution.wuaze.com" target="_blank"><img src="public/snk.png" width="400" alt="Enovate Logo">SnK Solution</a></p>
+<p align="center"><a href="http://snksolution.wuaze.com" target="_blank"><img src="public/snk.png" width="100" alt="SnK Logo"></a></p>
+
+#####[SnK Solution](http://snksolution.wuaze.com)
 
 <p align="center">
-    build by <a href="https://seneshpawan.epizy.com" target="_blank">Senesh Pawan</a>
+    build by <a href="https://seneshpawan.epizy.com" target="_blank">Senesh Pawan 💻</a>
 </p>
 
 <img src="public/web-development2.png" width="600" alt="web Development Startup"/>
